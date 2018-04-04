@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000</color>
+    <color name="shop_list_bottom">#d0ffffff</color>
+
+    <color name="colorTranWhite">#a5ffc000</color>
+    <color name="colorApp">#461748</color>
+
+
+    <color name="colorTran">#00ffc000</color>
+
+    <color name="colorLogin">#ffc000</color>
+    <color name="colorGreen">#0b8423</color>
+</resources>

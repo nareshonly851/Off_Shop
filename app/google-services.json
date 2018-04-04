@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167652385438",
+    "firebase_url": "https://offshop-e2df6.firebaseio.com",
+    "project_id": "offshop-e2df6",
+    "storage_bucket": "offshop-e2df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167652385438:android:530cfef0d35d23df",
+        "android_client_info": {
+          "package_name": "com.example.admin.off_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167652385438-egqmgdq2blj4ecr84fcdhv9t65j0kcd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.off_shop",
+            "certificate_hash": "40ae0cd0128c3fdc547b73f83118fab76d3dda3b"
+          }
+        },
+        {
+          "client_id": "167652385438-7egqr946u4613e1fq1lfgrrvo188f9fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQGUR4is1V7S19bfYrFX0Ta3-hvpu8BHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167652385438-7egqr946u4613e1fq1lfgrrvo188f9fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
